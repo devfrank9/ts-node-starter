@@ -1,6 +1,6 @@
 services:
   app:
-    container_name: ts-node-starter
+    container_name: ts-node-starter-express
     image: node:18.14.0
     volumes:
       - .:/app
