@@ -14,6 +14,7 @@ git clone git@github.com:devfrank9/ts-node-starter.git
 
 ## 설치 후, 아래 명령어를 실행합니다.
 ```
+cd ts-node-starter
 docker-compose up
 ```
 
