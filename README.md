@@ -1,3 +1,9 @@
+## 셋팅 브랜치
+
+모두 vite로 빌드
+- master: 기본 셋팅 (typescript, eslint, prettier)
+- express: express 셋팅 (typescript, eslint, prettier, express)
+
 ## 해당 레포지토리 clone
 ```
 git clone git@github.com:devfrank9/ts-node-starter.git
